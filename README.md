@@ -6,5 +6,5 @@ my email: 809347882@qq.com
 
 You see this avatar, you know it is me.
 
-
+![houwanhong](assets/houwanhong.jpg)
 
